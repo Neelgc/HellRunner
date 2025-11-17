@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e712df8b7139be48a42c28c920158b1, type: 3}
+  m_Name: Underworld
+  m_EditorClassIdentifier: 
+  _maxSteps: 1000
+  _noiseType: 3
+  _frequency: 0.2
+  _amplitude: 1.171
+  _fractalType: 1
+  _octaves: 3
+  _lacunarity: 2
+  _persistence: 0.5
+  _rockHeight: -0.45
+  _dirtHeight: 0.2
+  _redSandHeight: 0.34
+  _cavityHeight: 1
+  _borderThickness: 2
